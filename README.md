@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Eu atualmente sou estudante do <a href=http://www.pbpatobranco.seed.pr.gov.br/modules/noticias/ > CEPB </html>
+- 🔭 Eu atualmente sou estudante do <a href='ttp://www.pbpatobranco.seed.pr.gov.br/modules/noticias/'> CEPB </html>
 - 🌱 Estou aprendendo Linguagem JavaScript,  criando meu perfil no GitHub
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
